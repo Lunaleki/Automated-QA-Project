@@ -1,4 +1,4 @@
-# TestProject
+# Automated QA Project
 VSC Baigiamasis Darbas
 
 The final project is written in the Selenium C# Nunit framework:
