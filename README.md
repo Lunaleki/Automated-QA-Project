@@ -1,5 +1,5 @@
 # Automated QA Project
-VSC Baigiamasis Darbas
+Vilnius Coding School Final Project
 
 The final project is written in the Selenium C# Nunit framework:
 
